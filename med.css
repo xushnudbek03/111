@@ -1,0 +1,46 @@
+.brand-logo {
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+.container {
+    margin: 0 auto;
+    width: 1140px;
+}
+.brand-logo img {
+    width: 64px;
+    vertical-align: middle;
+}
+.main-navigation {
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+.panel {
+    display: inline-block;
+    padding: 10px;
+}
+.panel a{
+    text-decoration: none;
+    color: rgb(60, 55, 112);
+    text-transform: uppercase;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-size: 14px;
+    font-weight: 700;
+}
+.panel a:hover {
+    color: rgb(176, 128, 66);
+
+}
+.dars img  {
+    width: 150px;
+}
+.freetrial-callout-decoration[_ngcontent-agb-c168][sandboxuid="0"] {
+    background-image: url(https://ssl.gstatic.com/pantheon/images/gettingstarted/free-trial-main-img.png);
+    background-repeat: no-repeat;
+    background-size: 235px;
+    background-position: 0px 100%;
+    height: 320px;
+    max-width: 420px;
+    overflow: hidden;
+    width: 100%;
